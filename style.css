@@ -3,7 +3,7 @@
  * NE PAS TOUCHER AUX LIGNES CI-DESSOUS
  * TRAVAILLEZ A PARTIR DE LA LIGNE 27 !!
  ************************************************************/
-.page{
+ .page{
     width: 900px;
     margin:auto;
 }
@@ -77,7 +77,8 @@ body{
 }
 
 .colonne_contenu {
-    background-color: lightgreen;
+    background-color: white;
+    margin: 10px;
 }
 .pieddepage{
         background-color: #778899;
@@ -97,5 +98,17 @@ h2{
     font-size: 1.5em;
     margin: 20px;
     font-variant: small-caps ;
+}
+
+strong{
+    font-weight:normal;
+    color: orange;
+}
+
+.introduction{
+    font-style: italic;
+    padding: 10px;
+    border-radius: 10px;
+    border:3px solid rgb(68, 68, 68);
 }
 
