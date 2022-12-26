@@ -66,6 +66,7 @@ body{
 }
 
 .colonne_menu li{
+    background-color: #C2C2C2;
     list-style: none;
     text-align: center;
     margin: 7px;    
