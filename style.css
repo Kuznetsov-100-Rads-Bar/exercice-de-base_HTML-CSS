@@ -41,23 +41,23 @@ body{
 */
 .entete{
     background-color: #778899;
-    font-size: 20px;
+    padding: 20px;
 }
 .entete-titre{
-    font-size: 30px;
+    font-size: 25px;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .entete-slogan{
     font-style: italic;
     color: white;
-    font-size: 20px;
+    font-size: 27px;
 }
 .colonnes {
-    background-color: deepskyblue;
+    background-color: #778899;
 }
 .colonne_menu{
-    background-color: gold;
+    background-color: rgb(181, 175, 141);
 }
 
 .colonne_menu ul{
@@ -68,17 +68,27 @@ body{
 .colonne_menu li{
     list-style: none;
     text-align: center;
-    margin: 7px;
-    padding: 5px;
+    margin: 7px;    
 }
 
-.colonne_menu a{
+.colonne_menu li a{
+    display: block;
     text-decoration: none;
+    padding: 7px;
+    color: white;
+}
+
+a{
+    font-weight: 600;
+}
+
+.colonne_menu li a:hover{
+    color: #778899;
 }
 
 .colonne_contenu {
     background-color: white;
-    margin: 10px;
+    padding: 10px;
 }
 .pieddepage{
         background-color: #778899;
@@ -110,5 +120,6 @@ strong{
     padding: 10px;
     border-radius: 10px;
     border:3px solid rgb(68, 68, 68);
+    color: #a0a0a0;
 }
 
