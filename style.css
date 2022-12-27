@@ -69,13 +69,13 @@ body{
     background-color: #C2C2C2;
     list-style: none;
     text-align: center;
-    margin: 7px;    
+    margin: 5px;    
 }
 
 .colonne_menu li a{
     display: block;
     text-decoration: none;
-    padding: 7px;
+    padding: 5px;
     color: white;
 }
 
