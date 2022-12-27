@@ -132,3 +132,8 @@ strong{
     box-shadow: #B5AF8D 2px 2px 2px 2px;
 }
 
+p a:hover{
+    text-decoration: none;
+    color: red;
+}
+
