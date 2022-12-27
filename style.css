@@ -87,6 +87,10 @@ a{
     color: #778899;
 }
 
+.colonne_menu li a:hover{
+    background-color: white;
+}
+
 .colonne_contenu {
     background-color: white;
     padding: 10px;
@@ -101,11 +105,11 @@ a{
 h1{
     margin: 10px;
     margin-bottom: 20px;
-    border-bottom: 5px solid pink;
+    border-bottom: 5px solid #B5AF8D;
 }
 
 h2{
-    color: rgb(14, 14, 112);
+    color: #B5AF8D;
     font-size: 1.5em;
     margin: 20px;
     font-variant: small-caps ;
@@ -122,5 +126,9 @@ strong{
     border-radius: 10px;
     border:3px solid rgb(68, 68, 68);
     color: #a0a0a0;
+}
+
+.page{
+    box-shadow: #B5AF8D 2px 2px 2px 2px;
 }
 
