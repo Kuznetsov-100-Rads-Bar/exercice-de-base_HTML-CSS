@@ -137,3 +137,7 @@ p a:hover{
     color: red;
 }
 
+img{
+    width: 31px;
+    height: 31px;
+}
