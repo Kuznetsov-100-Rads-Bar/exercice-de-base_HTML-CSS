@@ -28,7 +28,6 @@
 body {
   /* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
     background-color: mediumpurple; */
-  margin: 0;
   padding: 0;
   background-color: rgb(194, 194, 194);
   font-family: "Roboto", sans-serif;
