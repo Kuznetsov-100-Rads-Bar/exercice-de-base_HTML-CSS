@@ -28,6 +28,11 @@
 body {
   /* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
     background-color: mediumpurple; */
+  margin: 0;
+  padding: 0;
+  background-color: rgb(194, 194, 194);
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
 }
 /*
 .page {
@@ -36,8 +41,10 @@ body {
 */
 .entete {
   background-color: #778899;
+  padding: 20px;
 }
 .entete-titre {
+  font-size: 25px;
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -99,7 +106,6 @@ h1 {
   margin: 10px;
   margin-bottom: 20px;
   border-bottom: 5px solid #b5af8d;
-  text-align: center;
 }
 
 h2 {
