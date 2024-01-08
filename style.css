@@ -3,141 +3,141 @@
  * NE PAS TOUCHER AUX LIGNES CI-DESSOUS
  * TRAVAILLEZ A PARTIR DE LA LIGNE 27 !!
  ************************************************************/
- .page{
-    width: 900px;
-    margin:auto;
+.page {
+  width: 1400px;
+  margin: auto;
 }
-.entete{
-    height: 100px;
+.entete {
+  height: 100px;
 }
-.colonne_menu{
-    float:left;
-    width:200px;
-    height:100%;
+.colonne_menu {
+  float: left;
+  width: 200px;
+  height: 100%;
 }
 .colonne_contenu {
-    margin-left:200px;
+  margin-left: 200px;
 }
-.pieddepage{
-    height:50px;
+.pieddepage {
+  height: 50px;
 }
 
 /************************************************************
  * SAISISSEZ VOS DECLARATIONS CSS EN-DESSOUS DE CETTE LIGNE
  ************************************************************/
-body{
-	/* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
+body {
+  /* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
     background-color: mediumpurple; */
-    margin: 0;
-    padding: 0;
-    background-color: rgb(194, 194, 194);
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(194, 194, 194);
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
 }
 /*
 .page {
 	background-color: red; 
 }
 */
-.entete{
-    background-color: #778899;
-    padding: 20px;
+.entete {
+  background-color: #778899;
+  padding: 20px;
 }
-.entete-titre{
-    font-size: 25px;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.entete-titre {
+  font-size: 25px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.entete-slogan{
-    font-style: italic;
-    color: white;
-    font-size: 27px;
+.entete-slogan {
+  font-style: italic;
+  color: white;
+  font-size: 27px;
 }
 .colonnes {
-    background-color: #778899;
+  background-color: #778899;
 }
-.colonne_menu{
-    background-color: rgb(181, 175, 141);
-}
-
-.colonne_menu ul{
-    margin: 0;
-    padding: 0;
+.colonne_menu {
+  background-color: rgb(181, 175, 141);
 }
 
-.colonne_menu li{
-    background-color: #C2C2C2;
-    list-style: none;
-    text-align: center;
-    margin: 5px;    
+.colonne_menu ul {
+  margin: 0;
+  padding: 0;
 }
 
-.colonne_menu li a{
-    display: block;
-    text-decoration: none;
-    padding: 5px;
-    color: white;
+.colonne_menu li {
+  background-color: #c2c2c2;
+  list-style: none;
+  text-align: center;
+  margin: 5px;
 }
 
-a{
-    font-weight: 600;
+.colonne_menu li a {
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  color: white;
 }
 
-.colonne_menu li a:hover{
-    color: #778899;
+a {
+  font-weight: 600;
 }
 
-.colonne_menu li a:hover{
-    background-color: white;
+.colonne_menu li a:hover {
+  color: #778899;
+}
+
+.colonne_menu li a:hover {
+  background-color: white;
 }
 
 .colonne_contenu {
-    background-color: white;
-    padding: 10px;
+  background-color: white;
+  padding: 10px;
 }
-.pieddepage{
-        background-color: #778899;
-        text-align: center;
-        color: white;
-        line-height: 55px;
-}
-
-h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    border-bottom: 5px solid #B5AF8D;
+.pieddepage {
+  background-color: #778899;
+  text-align: center;
+  color: white;
+  line-height: 55px;
 }
 
-h2{
-    color: #B5AF8D;
-    font-size: 1.5em;
-    margin: 20px;
-    font-variant: small-caps ;
+h1 {
+  margin: 10px;
+  margin-bottom: 20px;
+  border-bottom: 5px solid #b5af8d;
 }
 
-strong{
-    font-weight:normal;
-    color: orange;
+h2 {
+  color: #b5af8d;
+  font-size: 1.5em;
+  margin: 20px;
+  font-variant: small-caps;
 }
 
-.introduction{
-    font-style: italic;
-    padding: 10px;
-    border-radius: 10px;
-    border:3px solid rgb(68, 68, 68);
-    color: #a0a0a0;
+strong {
+  font-weight: normal;
+  color: orange;
 }
 
-.page{
-    box-shadow: #B5AF8D 2px 2px 2px 2px;
+.introduction {
+  font-style: italic;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid rgb(68, 68, 68);
+  color: #a0a0a0;
 }
 
-p a:hover{
-    text-decoration: none;
-    color: red;
+.page {
+  box-shadow: #b5af8d 2px 2px 2px 2px;
 }
 
-img{
-    width: 31px;
-    height: 31px;
+p a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+img {
+  width: 31px;
+  height: 31px;
 }
