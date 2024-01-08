@@ -35,7 +35,7 @@ body {
 }
 */
 .entete {
-  background-color: #778899;
+  background-color: #ac26fa;
 }
 .entete-titre {
   color: white;
@@ -44,13 +44,13 @@ body {
 .entete-slogan {
   font-style: italic;
   color: white;
-  font-size: 27px;
+  font-size: 12px;
 }
 .colonnes {
-  background-color: #778899;
+  background-color: #13e8e1;
 }
 .colonne_menu {
-  background-color: rgb(181, 175, 141);
+  background-color: rgb(63, 56, 18);
 }
 
 .colonne_menu ul {
