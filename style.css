@@ -12,11 +12,11 @@
 }
 .colonne_menu {
   float: left;
-  width: 150px;
+  width: 200px;
   height: 100%;
 }
 .colonne_contenu {
-  margin-left: 150px;
+  margin-left: 200px;
 }
 .pieddepage {
   height: 50px;
