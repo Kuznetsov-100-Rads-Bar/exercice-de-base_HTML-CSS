@@ -4,11 +4,11 @@
  * TRAVAILLEZ A PARTIR DE LA LIGNE 27 !!
  ************************************************************/
 .page {
-  width: 1910px;
+  width: 1900px;
   margin: auto;
 }
 .entete {
-  height: 100px;
+  height: 50px;
 }
 .colonne_menu {
   float: left;
