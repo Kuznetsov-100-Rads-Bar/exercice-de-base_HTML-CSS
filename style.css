@@ -41,7 +41,7 @@ body {
 }
 .entete-titre {
   color: white;
-  font-size: 10px;
+  font-size: 20px;
 }
 .entete-slogan {
   font-style: italic;
@@ -64,13 +64,13 @@ body {
   background-color: #c2c2c2;
   list-style: none;
   text-align: center;
-  margin: 15px;
+  margin: 5px;
 }
 
 .colonne_menu li a {
   display: block;
   text-decoration: none;
-  padding: 15px;
+  padding: 5px;
   color: white;
 }
 
