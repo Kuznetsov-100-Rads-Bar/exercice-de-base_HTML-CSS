@@ -122,11 +122,11 @@ strong {
   padding: 5px;
   border-radius: 10px;
   border: 10px solid rgba(68, 68, 68, 0.442);
-  color: #a0a0a0;
+  color: #4c643e;
 }
 
 .page {
-  box-shadow: #b5af8d 2px 2px 2px 2px;
+  box-shadow: #b5af8d 4px 4px 4px 4px;
 }
 
 p a:hover {
@@ -135,6 +135,6 @@ p a:hover {
 }
 
 img {
-  width: 31px;
-  height: 31px;
+  width: 20px;
+  height: 20px;
 }
