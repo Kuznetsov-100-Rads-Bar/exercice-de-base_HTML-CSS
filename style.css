@@ -126,7 +126,7 @@ strong {
 }
 
 .page {
-  box-shadow: #b5af8d 4px 4px 4px 4px;
+  box-shadow: #b5af8d 4px 4px 4px 2px;
 }
 
 p a:hover {
