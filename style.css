@@ -56,13 +56,15 @@ body {
 }
 
 .colonne_menu ul {
+  margin: 0;
+  padding: 0;
 }
 
 .colonne_menu li {
   background-color: #c2c2c2;
   list-style: none;
   text-align: center;
-  margin: 5px;
+  margin: 15px;
 }
 
 .colonne_menu li a {
