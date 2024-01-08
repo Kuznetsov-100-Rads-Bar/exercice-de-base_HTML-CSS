@@ -28,7 +28,6 @@
 body {
   /* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
     background-color: mediumpurple; */
-  font-size: 20px;
 }
 /*
 .page {
@@ -36,7 +35,6 @@ body {
 }
 */
 .entete {
-  background-color: #778899;
   padding: 20px;
 }
 .entete-titre {
