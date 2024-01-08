@@ -41,6 +41,7 @@ body {
 }
 .entete-titre {
   color: white;
+  font-size: 10px;
 }
 .entete-slogan {
   font-style: italic;
