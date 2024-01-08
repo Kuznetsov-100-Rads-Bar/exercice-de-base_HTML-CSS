@@ -16,7 +16,7 @@
   height: 100%;
 }
 .colonne_contenu {
-  margin-left: 160px;
+  margin-left: 250px;
 }
 .pieddepage {
   height: 50px;
@@ -28,16 +28,14 @@
 body {
   /* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ 
     background-color: mediumpurple; */
-  background-color: mediumpurple;
 }
-
 /*
 .page {
 	background-color: red; 
 }
 */
 .entete {
-  background-color: #ac26fa;
+  background-color: #778899;
 }
 .entete-titre {
   color: white;
@@ -46,13 +44,13 @@ body {
 .entete-slogan {
   font-style: italic;
   color: white;
-  font-size: 12px;
+  font-size: 27px;
 }
 .colonnes {
-  background-color: #13e8e1;
+  background-color: #778899;
 }
 .colonne_menu {
-  background-color: rgb(63, 56, 18);
+  background-color: rgb(181, 175, 141);
 }
 
 .colonne_menu ul {
