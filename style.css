@@ -71,7 +71,7 @@ body {
   display: block;
   text-decoration: none;
   padding: 15px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 a {
@@ -84,6 +84,7 @@ a {
 
 .colonne_menu li a:hover {
   background-color: rgb(233, 93, 6);
+  color: white;
 }
 
 .colonne_contenu {
